@@ -1,0 +1,2 @@
+# ast2css
+通过AST提取文件的class和id，自动生成对应的CSS或带嵌套的SCSS文件
